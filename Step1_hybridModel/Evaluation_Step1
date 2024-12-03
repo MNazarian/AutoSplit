@@ -279,7 +279,7 @@ if __name__ == '__main__':
             print(f"GPU error: {e}")
 
     # Define paths
-    step_directory = r"C:\Users\meh91075\Downloads\Bauteil\Step"
+    step_directory = "path_to_your_step_folder"
   
     model_path = "hybrid_model_optimized_final_new.h5"
     
