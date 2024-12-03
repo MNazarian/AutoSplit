@@ -15,7 +15,7 @@
 AutoSplit is an innovative machine learning framework for manufacturing process classification. Using a two-stage architecture, it combines computer vision and ML techniques for accurate process classification.
 
 <div align="left">
-  <img src="Images/1111.png" alt="1111" width="400" />
+  <img src="Images/Architecture.jpg" alt="1111" width="400" />
 </div>
 
 ### Features:
