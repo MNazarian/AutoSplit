@@ -154,21 +154,9 @@ Tell people where they can go to for help. It can be any combination of an issue
 - Felix Weigand (Fraunhofer IAPT)
 
 
-
-
 ## License
 For open source projects, say how it is licensed.
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Project Status
-Active development - Feature requests and contributions are welcome.
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ## Citation
 
