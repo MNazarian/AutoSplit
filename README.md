@@ -123,11 +123,6 @@ Tell people where they can go to for help. It can be any combination of an issue
 | `utils/`   | Useful scripts     |
 | `tests/`   | test cases              |
 
-## Contributing
-1. Fork the repository
-2. Create a new branch for your feature
-3. Make your changes
-4. Submit a pull request
 
 ## Authors and acknowledgment
 - Mehdi Nazarian (Fraunhofer IAPT),
