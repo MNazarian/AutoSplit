@@ -99,29 +99,6 @@ pip install -r requirements.txt
 ```
 ### 2. Load the Model
 
-```bash
-from autosplit import AutoSplitModel
-
-```
-
-# Load the pre-trained AutoSplit model
-```bash
-
-model = AutoSplitModel.load('path_to_trained_model')
-
-```
-
-### 3. Make Predictions
-```bash
-# Path to the CAD file (STEP format)
-cad_file_path = 'path_to_cad_file.step'
-
-# Predict the manufacturing process
-process_prediction = model.predict(cad_file_path)
-
-# Print the predicted manufacturing process
-print(f"The predicted manufacturing process is: {process_prediction}")
-```
 
 ### 4. Example Output
 
