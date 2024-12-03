@@ -75,11 +75,17 @@ The model was trained on:
 - numpy
 - pandas
   
-## Quick start
+## Quick Start
 
-- git remote add origin https://github.com/MNazarian/AutoSplit.git
-- git remote -v
-- git branch -M main
+### Prerequisites
+- Python 3.8 or higher
+- PyTorch 1.9+
+- CUDA-enabled GPU (recommended)
+
+### Installation
+1. Clone the repository
+```bash
+git clone https://github.com/MNazarian/AutoSplit.git
 
 ## Usage  
 Follow the steps below to get started with the model.
