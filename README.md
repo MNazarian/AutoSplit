@@ -1,4 +1,4 @@
-# Name: AutoSplit: A Novel Two-Stage AI Architecture for Enhanced Classification of Manufacturing Processes
+# Name: AutoSplit: Two-Stage AI Architecture for Enhanced Classification of Manufacturing Processes
 
 <div align="center">
   <img src="Images/AutoSplit.png" alt="1111" width="400" />
