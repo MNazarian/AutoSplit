@@ -82,32 +82,32 @@ The model was trained on:
 - PyTorch 1.9+
 - CUDA-enabled GPU (recommended)
 
-### Installation
-1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/MNazarian/AutoSplit.git
+```
 
-## Usage  
-Follow the steps below to get started with the model.
-
-### 1. Install Dependencies
+### 2. Install Dependencies
 First, ensure you have all the necessary dependencies installed. You can install them using `pip`:
 
 ```bash
 pip install -r requirements.txt
 
 ```
-### 2. Load the Model
+### 3. Load the Model
+```bash
+hier muss the modelle hochgeladen werden
 
+```
 
-### 4. Example Output
+### Example Output
 
 - Additive Manufacturing (AM)
 - Milling
 - Sheet Metal
 - Standard Parts
 
-**Example:** The predicted manufacturing process is: **Milling**
+**Example:** The predicted manufacturing process is: **AM**
 
 
 
