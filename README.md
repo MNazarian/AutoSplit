@@ -4,12 +4,6 @@
   <img src="Images/AutoSplit.png" alt="1111" width="400" />
 </div>
 
-## Quick start
-
-- git remote add origin https://github.com/MNazarian/AutoSplit.git
-- git remote -v
-- git branch -M main
-
 
 ## Overview
 AutoSplit is an innovative machine learning framework for manufacturing process classification. Using a two-stage architecture, it combines computer vision and ML techniques for accurate process classification.
@@ -78,7 +72,12 @@ The model was trained on:
 - scikit-learn
 - numpy
 - pandas
+  
+## Quick start
 
+- git remote add origin https://github.com/MNazarian/AutoSplit.git
+- git remote -v
+- git branch -M main
 
 ## Usage  
 Follow the steps below to get started with the model.
