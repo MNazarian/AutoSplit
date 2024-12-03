@@ -153,6 +153,9 @@ Tell people where they can go to for help. It can be any combination of an issue
 - Robert Lau (Fraunhofer IAPT)
 - Felix Weigand (Fraunhofer IAPT)
 
+**Acknowledgement**
+The authors express their sincere thanks to the Federal Ministry of Economics and Climate Protection and the Project Management Jülich for providing funding and support for the associated project.
+
 
 ## License
 For open source projects, say how it is licensed.
