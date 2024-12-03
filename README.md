@@ -6,10 +6,9 @@
 
 ## Quick start
 
-- cd existing_repo
-- git remote add origin https://gitlab.cc-asp.fraunhofer.de/iapt/prozesskettenautomatisierung/bauteildesign/autosplit.git
+- git remote add origin https://github.com/MNazarian/AutoSplit.git
+- git remote -v
 - git branch -M main
-- git push -uf origin main
 
 
 ## Overview
