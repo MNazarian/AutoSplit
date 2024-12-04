@@ -16,13 +16,13 @@ AutoSplit is an innovative machine learning framework for manufacturing process 
 
 ### Features:
 
-Stage 1: Hybrid Neural Network (CNN + MLP)
+**Stage 1**: Hybrid Neural Network (CNN + MLP)
 94.2% accuracy for standard/non-standard parts
 ResNet50V2 backbone
 Multi-perspective CAD analysis
 Visual and geometric feature processing
 
-Stage 2: Random Forest Classifier
+**Stage 2**: Random Forest Classifier
 82% accuracy in process classification
 Categories: AM, milling, sheet metal
 50 quantitative features
