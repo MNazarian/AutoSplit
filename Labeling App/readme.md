@@ -1,6 +1,6 @@
-# Labeling App
+## Labeling App
 
-## How to Use
+### How to Use
 
 1. Copy the dataset contents:
    - Place the `info` files into the `data/info` subfolder.
