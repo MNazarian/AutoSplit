@@ -138,4 +138,11 @@ For open source projects, say how it is licensed.
 ## Citation
 
 ```bibtex
-
+@software{autosplit_2024,
+  author = {Mehdi Nazarian and Rafael Neves and Léon Klick and Robert Lau and Felix Weigand},
+  title = {AutoSplit: Two-Stage AI Architecture for Enhanced Classification of Manufacturing Processes},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/MNazarian/AutoSplit},
+  version = {1.0.0}
+}
