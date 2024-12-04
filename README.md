@@ -126,7 +126,8 @@ For technical questions or support:
 - Robert Lau (Fraunhofer IAPT)
 - Felix Weigand (Fraunhofer IAPT)
 
-**Acknowledgement**
+**Acknowledgement:**  
+
 The authors express their sincere thanks to the Federal Ministry of Economics and Climate Protection and the Project Management Jülich for providing funding and support for the associated project.
 
 
