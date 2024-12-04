@@ -1,6 +1,7 @@
 ## Labeling App
-![Labeling App](Images/Labeling_App.png)
-
+<div align="center">
+  <img src="../Images/Labeling_App.png" alt="AutoSplit Labeling App" width="1000" />
+</div>
 
 ### Preparation Steps
 Before copying the dataset to the labeling app, ensure that the necessary files are generated:
