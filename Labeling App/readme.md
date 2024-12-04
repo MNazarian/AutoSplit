@@ -1,4 +1,6 @@
 ## Labeling App
+![Labeling App](Images/Labeling_App.png)
+
 
 ### Preparation Steps
 Before copying the dataset to the labeling app, ensure that the necessary files are generated:
