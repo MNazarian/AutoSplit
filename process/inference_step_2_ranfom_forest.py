@@ -1,3 +1,26 @@
+"""
+STEP File Analysis and Feature Extraction Script
+
+This script processes STEP files to extract geometric and topological features, 
+predicts their classifications using a pre-trained Random Forest model, and 
+saves the predictions to a CSV file. 
+
+Key Features:
+- Extracts metadata (e.g., dimensions, volume, edge types) from STEP files.
+- Predicts class labels for the STEP models using a machine learning model.
+- Saves the results and probabilities in a structured CSV format.
+- Provides visualization of STEP files using OCC.
+
+Usage:
+- Set the input STEP folder path and output CSV file path.
+- Update the paths to the Random Forest model, scaler, and feature list.
+- Run the script to process all STEP files in the specified folder.
+
+Dependencies:
+- OCC (OpenCascade)
+- NumPy, pandas, joblib
+"""
+
 import os
 import pandas as pd
 import warnings
