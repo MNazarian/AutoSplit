@@ -85,7 +85,7 @@ The model was trained on:
 # Clone repository
 git clone https://github.com/MNazarian/AutoSplit.git
 ```
-# Install dependencies
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
