@@ -1,3 +1,35 @@
+"""
+Hybrid CNN and Random Forest STEP File Analysis
+
+This script processes STEP files to extract geometric features, generate 
+screenshots, and classify parts using a hybrid model that combines numerical 
+features and image data.
+
+Features:
+- **Feature Extraction**: Calculates dimensions, volume, surface area, edge/surface types, 
+  and other geometric/topological attributes from STEP files.
+- **Screenshot Generation**: Captures ISO and alternate perspective screenshots 
+  of STEP models for image-based predictions.
+- **Hybrid Model Prediction**: Uses a CNN model combined with numerical features to 
+  classify parts as "Standard" or "Non-standard."
+- **CSV Export**: Saves predictions, classifications, and probabilities to a CSV file.
+
+Usage:
+1. Update the paths for:
+   - `step_folder_path`: Directory containing STEP files to process.
+   - `model_path`: Path to the pre-trained hybrid model (`.h5` file).
+   - `output_csv_path`: Destination for saving predictions in CSV format.
+2. Run the script to process the STEP files.
+3. Check the console for progress updates and the CSV file for results.
+
+Dependencies:
+- TensorFlow
+- NumPy
+- Pandas
+- PythonOCC (OpenCASCADE)
+- Scikit-learn
+"""
+
 import os
 import numpy as np
 import pandas as pd
@@ -222,11 +254,11 @@ def load_and_predict(model_path, features, iso_png_path, isoalt_png_path):
 
 if __name__ == '__main__':
     # INPUT:
-    step_folder_path = r"C:\Users\rafae\Documents\10_AutoSplit\11_TESTDATA\test_STANDARD"
-    model_path = r"C:\Users\rafae\Documents\10_AutoSplit\20_Models\HYBRID\hybrid_model_optimized_final.h5"
+    step_folder_path = r"insert_STEP_folder_path_here"
+    model_path = r"insert_model_h5_path_here"
 
     # OUTPUT:
-    output_csv_path = r"C:\Users\rafae\Documents\10_AutoSplit\11_TESTDATA\test_STANDARD\preTESTdeleteme.csv"
+    output_csv_path = r"insert_output_csv_path_here"
 
     threshold = 0.5  # threshold to classify a prediction as correct. Change as desired
 
