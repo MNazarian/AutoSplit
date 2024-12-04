@@ -46,10 +46,12 @@ https://dev.opencascade.org/doc/refman/html/class_g_prop___g_props.html
 - CAD model classification
 
 ### Performance Improvements:
-- +22.1% standard part identification
-- +19.7% AM component recall
-- +16.9% sheet metal component recall
-- +9.6% overall accuracy vs single-stage
+- 15.6% improvement in standard part classification
+- 18.0% enhancement in AM component recall
+- 4.8% improvement in machining identification
+- 24.6% increase in sheet metal component recall
+- 7.4% overall accuracy improvement.
+
 
 ## Visuals
 <div style="display: flex; justify-content: space-between;">
