@@ -1,0 +1,31 @@
+# Deep Learning
+torch>=1.9.0
+torchvision>=0.10.0
+tensorflow>=2.7.0
+
+# Machine Learning
+scikit-learn>=0.24.2
+numpy>=1.19.2
+pandas>=1.3.0
+
+# CAD Processing
+pythonocc-core>=7.4.1  # For OpenCASCADE
+networkx>=2.6.3        # For graph operations
+
+# Visualization
+matplotlib>=3.4.2
+seaborn>=0.11.2
+
+# Image Processing
+Pillow>=8.2.0
+opencv-python>=4.5.3
+
+# Utilities
+tqdm>=4.62.0          # For progress bars
+joblib>=1.0.1         # For parallel processing
+scipy>=1.7.0
+
+# Optional but recommended
+pytest>=6.2.5         # For testing
+black>=21.6b0         # For code formatting
+flake8>=3.9.0         # For code linting
