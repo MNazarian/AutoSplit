@@ -1,4 +1,17 @@
-# MIT License with Restrictions
+# Modified MIT License with Restrictions
+
+AutoSplit is licensed under the Modified MIT License with Restrictions
+
+A modified MIT license that restricts commercial use and includes patent disclaimers. 
+Licensed works and modifications must be for non-commercial and academic use only.
+
+Permissions        Limitations         Conditions
+✓ Academic use     ❌ Commercial use    ℹ️ License and copyright notice
+✓ Modification     ❌ Liability         ℹ️ Citation required
+✓ Distribution     ❌ Warranty          ℹ️ State changes
+✓ Private use      ❌ Patent use
+
+-------------------------------------------------------------------------------
 
 Copyright (c) 2024 Fraunhofer Institute for Additive Production Technology IAPT
 Authors: Mehdi Nazarian, Rafael Neves, Léon Klick, Robert Lau, Felix Weigand
