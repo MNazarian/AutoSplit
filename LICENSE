@@ -1,0 +1,39 @@
+# MIT License with Restrictions
+
+Copyright (c) 2024 Fraunhofer Institute for Additive Production Technology IAPT
+Authors: Mehdi Nazarian, Rafael Neves, Léon Klick, Robert Lau, Felix Weigand
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this code and associated documentation files ("AutoSplit"), for non-commercial
+and academic use only, to deal in the Software including without limitation the 
+rights to use, copy, modify, merge, publish, and distribute copies of the Software,
+subject to the following conditions:
+
+1. Commercial use of this Software is strictly prohibited.
+
+2. The above copyright notice, author list, and this permission notice shall be 
+included in all copies or substantial portions of the Software.
+
+3. NO EXPRESS OR IMPLIED LICENSES TO ANY PATENT CLAIMS, including without limitation 
+the patents of Fraunhofer, ARE GRANTED BY THIS SOFTWARE LICENSE. Fraunhofer provides 
+no warranty of patent non-infringement with respect to this software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS, COPYRIGHT HOLDERS OR FRAUNHOFER IAPT BE LIABLE FOR ANY CLAIM, DAMAGES 
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
+
+The authors and Fraunhofer IAPT explicitly disclaim any responsibility for any
+damages or losses resulting from the use of this Software.
+
+For research and academic citation purposes, please reference:
+Nazarian et al., "AutoSplit: A Novel Two-Stage AI Architecture for Enhanced 
+Classification of Manufacturing Processes", 2024
+
+For questions regarding commercial use, please contact:
+Fraunhofer Institute for Additive Production Technology IAPT
+Am Schleusengraben 14
+21029 Hamburg, Germany
