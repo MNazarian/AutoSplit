@@ -1,6 +1,6 @@
 ## Labeling App
 <div align="center">
-  <img src="../Images/Labeling_App.png" alt="AutoSplit Labeling App" width="1000" />
+  <img src="../docs/img/Labeling_App.png" alt="AutoSplit Labeling App" width="1000" />
 </div>
 
 ### Preparation Steps
