@@ -10,8 +10,8 @@ AutoSplit is an innovative machine learning framework for manufacturing process 
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr style="border: none;">
-<td style="border: none;"><img src="Images/Architecture1.jpg" alt="Architecture diagram" width="600" /></td>
-<td style="border: none;"><img src="Images/Architecture.jpg" alt="Detail architecture" width="400" /></td>
+<td style="border: none;"><img src="Images/docs/Architecture1.jpg" alt="Architecture diagram" width="600" /></td>
+<td style="border: none;"><img src="Images/docs/Architecture.jpg" alt="Detail architecture" width="400" /></td>
 </tr>
 </table>
 
