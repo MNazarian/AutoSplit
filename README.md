@@ -1,7 +1,7 @@
 # AutoSplit: Two-Stage AI Architecture for Enhanced Classification of Manufacturing Processes
 
 <div align="center">
-  <img src="Images/AutoSplit.png" alt="AutoSplit Logo" width="350" />
+  <img src="/docs/img/AutoSplit.png" alt="AutoSplit Logo" width="350" />
 </div>
 
 
