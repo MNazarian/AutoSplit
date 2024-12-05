@@ -100,9 +100,6 @@ pip install -r requirements.txt
 **Example:** The predicted manufacturing process is: **AM**
 
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
 ## Project Structure
 
 | folder     | Contents                 |
