@@ -61,12 +61,12 @@ The model was trained on:
 
 ### Visuals
 <div style="display: flex; justify-content: space-between;">
-    <img src="Images/AM.png" alt="AM Process" width="45%">
-    <img src="Images/Milling.png" alt="Milling Process" width="45%">
+    <img src="/docs/img/AM.png" alt="AM Process" width="45%">
+    <img src="/docs/img/Milling.png" alt="Milling Process" width="45%">
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="Images/Sheet_Metal.png" alt="Sheet Metal Process" width="45%">
-    <img src="Images/standard_component.png" alt="Standard Component" width="45%">
+    <img src="/docs/img/Sheet_Metal.png" alt="Sheet Metal Process" width="45%">
+    <img src="/docs/img/standard_component.png" alt="Standard Component" width="45%">
 </div>
 
 ## Installation
