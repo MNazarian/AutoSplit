@@ -63,7 +63,7 @@ The model was trained on:
 </div>
 <div style="display: flex; justify-content: space-between;">
     <img src="/docs/img/Sheet_Metal.png" alt="Sheet Metal Process" width="45%">
-    <img src="/docs/img/StandardComponents.png" alt="Standard Component" width="45%">
+    <img src="/docs/img/StandardComponents.png" alt="Standard Component" width="25%">
 </div>
 
 ## Installation
